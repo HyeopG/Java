@@ -7,5 +7,8 @@ public class doubleDemo {
 		a = 1.1;
 		
 		System.out.println(a+1.1);
+		
+		a = 1;
+		System.out.println(a);
 	}
 }
