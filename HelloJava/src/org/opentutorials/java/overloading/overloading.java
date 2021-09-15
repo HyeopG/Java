@@ -9,8 +9,7 @@ public class overloading {
 	public static void main(String[] args) {
 		overloading od = new overloading();
 		od.A();
-		od.A(1);
+		od.A(1); 
 		od.A("coding everybody!");
 	}
-
-}
+} 
